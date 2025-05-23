@@ -15,9 +15,6 @@ I'm a highly driven and results-oriented fresher with a strong foundation in fro
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodeSculpt-RG&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeSculpt-RG&icon=0&color=0)](https://visitcount.itsvg.in)
 
