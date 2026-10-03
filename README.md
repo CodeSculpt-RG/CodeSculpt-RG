@@ -1,404 +1,605 @@
-<!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  G RAHUL — GitHub Profile README v3 Fixed
-  CodeSculpt-RG
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
-
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║                 ANIMATED HERO                  ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
+<!-- G RAHUL / CodeSculpt-RG -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,30:0f0c29,60:312E81,100:7C3AED&height=320&text=G%20%20RAHUL&fontSize=96&fontColor=ffffff&fontAlignY=42&desc=Application%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20Founder&descAlignY=63&descSize=16&descColor=A78BFA&animation=scaleIn&stroke=7C3AED&strokeWidth=3"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rounded&amp;color=21163B&amp;height=210&amp;text=G%20RAHUL&amp;fontSize=70&amp;fontColor=F5F3FF&amp;fontAlignY=43&amp;desc=Build.%20Learn.%20Improve.%20Repeat.&amp;descSize=20&amp;descAlignY=68">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;color=EDE9FE&amp;height=210&amp;text=G%20RAHUL&amp;fontSize=70&amp;fontColor=4C1D95&amp;fontAlignY=43&amp;desc=Build.%20Learn.%20Improve.%20Repeat.&amp;descSize=20&amp;descAlignY=68" alt="G Rahul — Build. Learn. Improve. Repeat.">
+</picture>
 
-<br/>
+<h3>Building better, one lesson at a time.</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Application+Developer+crafting+premium+digital+products.;Full-Stack+Engineer+building+scalable+product+systems.;GenAI+Engineer+working+with+LLMs%2C+RAG+%26+automation.;Founder+of+Kaamly+%E2%80%94+a+modern+household+services+startup.;Open+to+Work+%E2%80%A2+Open+to+Collaborate+%E2%80%A2+Open+to+Build."/>
+<p>
+  <strong>Application Developer · Full-Stack Engineer · GenAI Builder · Founder</strong>
+</p>
 
-<br/><br/>
+<p>
+  I'm <strong>G Rahul</strong>. Every mistake teaches me something.<br>
+  I take the lesson, improve my craft, and keep building.
+</p>
 
-<!-- ROLE PILLS -->
-<img src="https://img.shields.io/badge/APPLICATION_DEVELOPER-7C3AED?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-2563EB?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/GENAI_ENGINEER-A855F7?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FOUNDER_KAAMLY-22C55E?style=for-the-badge&labelColor=020617"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2600&amp;pause=1200&amp;color=C4B5FD&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=42&amp;lines=Build.+Learn.+Improve.+Repeat.;Turning+lessons+into+better+products.;Always+learning.+Always+building.">
+  <img width="540" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2600&amp;pause=1200&amp;color=6D28D9&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=42&amp;lines=Build.+Learn.+Improve.+Repeat.;Turning+lessons+into+better+products.;Always+learning.+Always+building." alt="Build. Learn. Improve. Repeat. Turning lessons into better products. Always learning. Always building.">
+</picture>
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/Open_to_work-166534?style=flat-square" alt="Open to work">
+  <img src="https://img.shields.io/badge/Open_to_collaborate-6D28D9?style=flat-square" alt="Open to collaborate">
+  <img src="https://img.shields.io/badge/Founder_at_Kaamly-4C1D95?style=flat-square" alt="Founder at Kaamly">
+</p>
 
-<!-- STATUS -->
-<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-Available%20Now-22c55e?style=for-the-badge&labelColor=020617"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20COLLABORATE-Let's%20Build-7C3AED?style=for-the-badge&labelColor=020617"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-Bhilai%2C%20India-A78BFA?style=for-the-badge&labelColor=020617"/>
+<p>
+  <sub>
+    <strong>Bhilai, Chhattisgarh, India</strong> ·
+    Available for full-time, freelance, and contract work
+  </sub>
+</p>
 
-<br/><br/>
+<p>
+  <a href="mailto:work.grahul@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email G Rahul"></a>
+  <a href="https://www.linkedin.com/in/geekster-rahulg"><img src="https://img.shields.io/badge/LinkedIn-35264F?style=flat-square" alt="Connect on LinkedIn"></a>
+  <a href="https://github.com/CodeSculpt-RG"><img src="https://img.shields.io/badge/GitHub-35264F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Browse my GitHub profile"></a>
+  <a href="https://www.instagram.com/rahulg.___"><img src="https://img.shields.io/badge/Instagram-35264F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Find me on Instagram"></a>
+  <a href="https://www.youtube.com/@Thegeekie.weber"><img src="https://img.shields.io/badge/YouTube-35264F?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="Visit my YouTube channel"></a>
+</p>
 
-<!-- SOCIALS -->
-<a href="mailto:work.grahul@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/geekster-rahulg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/CodeSculpt-RG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/rahulg.___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-<a href="https://www.youtube.com/@Thegeekie.weber"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=CodeSculpt-RG&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
+<p>
+  <a href="#about-me">About</a> ·
+  <a href="#professional-experience">Experience</a> ·
+  <a href="#founder-journey--kaamly">Kaamly</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#tech-stack">Stack</a> ·
+  <a href="#lets-build-together">Contact</a>
+</p>
 
 </div>
 
----
+<br>
 
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║               ABOUT ME                         ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
+<a name="about-me"></a>
+<h2>01 · About me</h2>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=7C3AED&center=true&vCenter=true&width=400&lines=%E2%9C%A6+ABOUT+ME+%E2%9C%A6"/>
-</div>
+<blockquote>
+  <p>
+    <strong>I turn mistakes into lessons, and lessons into better code.</strong>
+    I ask better questions, improve with every project, and keep working toward
+    becoming the best developer I can be.
+  </p>
+</blockquote>
 
-<br/>
-
-<img align="right" width="39%" src="https://github-readme-stats.vercel.app/api?username=CodeSculpt-RG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=7C3AED&text_color=CBD5E1&ring_color=A78BFA&border_radius=18&include_all_commits=true&count_private=true"/>
-
-Hi, I'm **G Rahul** — an **Application Developer**, **Full-Stack Engineer**, **GenAI Builder**, and founder of **Kaamly**, based in **Bhilai, Chhattisgarh, India**.
-
-I build premium digital products, scalable web systems, AI-powered pipelines, and high-performance applications — combining engineering precision with modern design and real business impact.
-
-My work spans across:
-
-- **Full-Stack** application development & architecture
-- **GenAI** systems — LLMs, RAG, prompt engineering
-- **Frontend** engineering with React, Next.js, Tailwind
-- **Backend** APIs, automation & system optimization
-- **Startup** product development (Kaamly)
-- **Freelance** premium websites, apps & business systems
-
-```
-🎓  BSc CS Engineering — Hemchand Yadav University (2022–2026)
-📜  Full-Stack Certification — Nxtwave Disruptive Technologies
-🏢  Application Developer @ Creator Navigator (Apr 2026 – Present)
-🛠️  Web Dev Intern @ Karmanya IT Solution (Jan–Dec 2024)
-🏆  First Prize — Arduino Home Automation Project
-🎖️  NCC 'A' Certificate — Leadership & Discipline
-🚀  Founder — Kaamly (Household Services Startup)
-```
-
-<br clear="right"/>
-
----
-
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║             EXPERIENCE                         ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=7C3AED&center=true&vCenter=true&width=600&lines=%E2%9C%A6+PROFESSIONAL+EXPERIENCE+%E2%9C%A6"/>
-</div>
-
-<br/>
+<p>
+  I'm an <strong>Application Developer, Full-Stack Engineer, and GenAI Builder</strong>,
+  and the founder of <strong>Kaamly</strong>. I work across web, mobile,
+  backend systems, and intelligent workflows, combining engineering precision
+  with modern design.
+</p>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🏢 Application Developer
-### Creator Navigator &nbsp; `Apr 2026 – Present`
+<h3>What I build</h3>
 
-Building scalable product systems and AI-powered workflows.
-
-**Responsibilities**
-- Scalable web apps with modern JS frameworks
-- GenAI + LLM integrations for automated workflows
-- REST API design, backend optimization & performance
-- Production-grade architecture and system maintenance
-- Agile: feature dev, debugging, deployment
-
-**Impact**
-- Shipped AI-enhanced product features end-to-end
-- Optimized API response pipelines
-- Built consistent, scalable frontend flows
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Web Developer Intern
-### Karmanya IT Solution &nbsp; `Jan 2024 – Dec 2024`
-
-Built responsive systems and automation-driven workflows.
-
-**Responsibilities**
-- Frontend development & responsive UI design
-- Backend workflow automation with Python & JS
-- Database-driven systems and feature development
-- QA, debugging, testing and deployment
-
-**Impact**
-- School management system → **500+ active users**
-- Workflow automation → **40% reduction** in processing time
-- Full device-responsive UI deployed to production
-- Cross-team collaboration for integration & scalability
+<ul>
+  <li><strong>Full-stack applications:</strong> architecture, product development, and scalable systems.</li>
+  <li><strong>GenAI systems:</strong> LLM integrations, Retrieval-Augmented Generation (RAG), and prompt engineering.</li>
+  <li><strong>Frontend engineering:</strong> React, Next.js, Tailwind, and responsive product experiences.</li>
+  <li><strong>Backend engineering:</strong> REST APIs, automation, performance, and system optimization.</li>
+  <li><strong>Startup development:</strong> product design, technology, and the business model behind Kaamly.</li>
+  <li><strong>Freelance delivery:</strong> premium websites, applications, and business systems.</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
----
+<h3>Education &amp; credentials</h3>
 
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║               KAAMLY STARTUP                   ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
+<ul>
+  <li><strong>BSc CS Engineering</strong> — Hemchand Yadav University, <strong>2022–2026</strong>.</li>
+  <li><strong>Full-Stack Certification</strong> — Nxtwave Disruptive Technologies.</li>
+  <li><strong>First Prize</strong> — Arduino Home Automation Project.</li>
+  <li><strong>NCC 'A' Certificate</strong> — leadership, discipline, and teamwork.</li>
+</ul>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=22C55E&center=true&vCenter=true&width=700&lines=%E2%9C%A6+FOUNDER+JOURNEY+%E2%80%94+KAAMLY+%E2%9C%A6"/>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:020617,40:052e16,70:14532D,100:22C55E&text=KAAMLY&fontSize=56&fontColor=ffffff&desc=Premium%20Household%20Services%20%E2%80%94%20Modern%20%E2%80%A2%20Trusted%20%E2%80%A2%20Technology-First&descSize=15&descAlignY=72&animation=fadeIn"/>
-</div>
-
-<br/>
-
-**Kaamly** is my personal startup — a modern household services platform built with a premium user experience and technology-first approach. I'm building it from zero: product design, tech stack, and business model.
-
-**Services Kaamly is being designed for:**
-
-```
-🏠  House Cleaning          🍳  Cooking Assistance
-🧹  Maids & Domestic Help   📅  Recurring Subscriptions
-🔧  Home Maintenance        🕐  Scheduled Bookings
-🛒  Household Operations    ⭐  Verified & Trusted Providers
-```
-
-| Layer | What |
-|:--|:--|
-| **Frontend** | Next.js + Tailwind — premium, responsive, fast |
-| **Backend** | Node.js + Express APIs + scalable architecture |
-| **Database** | MongoDB for flexible service & user data |
-| **Auth & Realtime** | Firebase authentication & live booking |
-| **AI Layer** | Smart provider matching, automated workflows |
-| **Business** | Subscription model, city-wise scaling plan |
-
-> *"Kaamly is my bet that household services can be as elegant as the home they serve."*
-
----
-
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║              FEATURED PROJECTS                 ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=7C3AED&center=true&vCenter=true&width=400&lines=%E2%9C%A6+PROJECTS+%E2%9C%A6"/>
-</div>
-
-<br/>
+<a name="professional-experience"></a>
+<h2>02 · Professional experience</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td valign="top">
 
-#### 🤖 GenAI RAG Assistant
-[![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/CodeSculpt-RG)
+<h3>Application Developer</h3>
 
-> Context-aware AI using Retrieval-Augmented Generation
+<p>
+  <strong>Creator Navigator</strong> ·
+  <sub>Apr 2026 – Present</sub>
+</p>
 
-`Node.js` `Express` `React` `Gemini API`
+<p>Building scalable product systems and AI-powered workflows.</p>
 
-- Vector-based cosine similarity search
-- Full-stack Vercel deployment
-- Precision prompt engineering
+<h4>Responsibilities</h4>
 
-</td>
-<td width="33%" valign="top">
+<ul>
+  <li>Develop scalable web applications with modern JavaScript frameworks.</li>
+  <li>Integrate GenAI and LLMs into automated workflows.</li>
+  <li>Design REST APIs and optimize backend performance.</li>
+  <li>Maintain production-grade architecture and systems.</li>
+  <li>Deliver features, debugging, and deployments within Agile workflows.</li>
+</ul>
 
-#### 🎬 Movie Search App
-[![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/CodeSculpt-RG)
+<h4>Impact</h4>
 
-> Performant movie discovery with smart search UX
-
-`React` `TMDB API` `JavaScript`
-
-- Debounce-optimized search
-- Real-time filtering & rendering
-- Responsive across all viewports
-
-</td>
-<td width="33%" valign="top">
-
-#### 📖 Wikipedia Search App
-[![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/CodeSculpt-RG)
-
-> Instant encyclopedia search, clean & minimal
-
-`JavaScript` `REST API` `HTML/CSS`
-
-- Real-time data rendering
-- Fully responsive layout
-- Distraction-free interface
+<ul>
+  <li>Shipped AI-enhanced product features end to end.</li>
+  <li>Optimized API response pipelines.</li>
+  <li>Built consistent frontend flows designed to scale.</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║               TECH STACK                       ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
+<table width="100%">
+<tr>
+<td valign="top">
+
+<h3>Web Developer Intern</h3>
+
+<p>
+  <strong>Karmanya IT Solution</strong> ·
+  <sub>Jan 2024 – Dec 2024</sub>
+</p>
+
+<p>Built responsive systems and automation-driven workflows.</p>
+
+<h4>Responsibilities</h4>
+
+<ul>
+  <li>Developed frontend features and responsive user interfaces.</li>
+  <li>Automated backend workflows with Python and JavaScript.</li>
+  <li>Built database-driven systems and application features.</li>
+  <li>Supported QA, debugging, testing, and deployment.</li>
+</ul>
+
+<h4>Impact</h4>
+
+<ul>
+  <li>Delivered a school management system supporting <strong>500+ active users</strong>.</li>
+  <li>Reduced workflow processing time by <strong>40%</strong> through automation.</li>
+  <li>Deployed a responsive interface across device sizes.</li>
+  <li>Collaborated across teams on integration and scalability.</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a name="founder-journey--kaamly"></a>
+<h2>03 · Founder journey · Kaamly</h2>
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+<h3>Household services, thoughtfully built.</h3>
+
+<p>
+  <strong>Kaamly</strong> is my personal startup: a modern household services
+  platform with a premium user experience and a technology-first approach.
+  I'm building it from zero — product design, the technology stack,
+  and the business model.
+</p>
+
+<p><strong>Modern · Trusted · Technology-first</strong></p>
+
+<h4>Services the platform is being designed for</h4>
+
+<ul>
+  <li>House cleaning and cooking assistance.</li>
+  <li>Maids and domestic help.</li>
+  <li>Home maintenance and household operations.</li>
+  <li>Scheduled bookings and recurring subscriptions.</li>
+  <li>Verified, trusted service providers.</li>
+</ul>
+
+<table width="100%">
+<tr>
+  <th align="left">Layer</th>
+  <th align="left">Approach</th>
+</tr>
+<tr>
+  <td valign="top"><strong>Frontend</strong></td>
+  <td>Next.js + Tailwind for a premium, responsive, fast experience</td>
+</tr>
+<tr>
+  <td valign="top"><strong>Backend</strong></td>
+  <td>Node.js + Express APIs with scalable architecture</td>
+</tr>
+<tr>
+  <td valign="top"><strong>Database</strong></td>
+  <td>MongoDB for flexible service and user data</td>
+</tr>
+<tr>
+  <td valign="top"><strong>Auth &amp; realtime</strong></td>
+  <td>Firebase authentication and live booking</td>
+</tr>
+<tr>
+  <td valign="top"><strong>AI layer</strong></td>
+  <td>Smart provider matching and automated workflows</td>
+</tr>
+<tr>
+  <td valign="top"><strong>Business</strong></td>
+  <td>Subscription model and a city-wise scaling plan</td>
+</tr>
+</table>
+
+<blockquote>
+  <p>“Kaamly is my bet that household services can be as elegant as the home they serve.”</p>
+</blockquote>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a name="featured-projects"></a>
+<h2>04 · Featured projects</h2>
+
+<table width="100%">
+<tr>
+<td width="8%" valign="top" align="center"><h3>01</h3></td>
+<td width="92%" valign="top">
+
+<h3>GenAI RAG Assistant</h3>
+
+<p>A context-aware AI assistant using <strong>Retrieval-Augmented Generation</strong>.</p>
+
+<p>
+  <code>Node.js</code> · <code>Express</code> ·
+  <code>React</code> · <code>Gemini API</code>
+</p>
+
+<ul>
+  <li>Vector-based search with cosine similarity.</li>
+  <li>Precision prompt engineering for contextual responses.</li>
+  <li>Full-stack deployment on Vercel.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/CodeSculpt-RG?tab=repositories">
+    <strong>Browse repositories →</strong>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="8%" valign="top" align="center"><h3>02</h3></td>
+<td width="92%" valign="top">
+
+<h3>Movie Search App</h3>
+
+<p>A performant movie discovery application with a thoughtful search experience.</p>
+
+<p><code>React</code> · <code>TMDB API</code> · <code>JavaScript</code></p>
+
+<ul>
+  <li>Debounce-optimized search.</li>
+  <li>Real-time filtering and rendering.</li>
+  <li>Responsive across viewport sizes.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/CodeSculpt-RG?tab=repositories">
+    <strong>Browse repositories →</strong>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="8%" valign="top" align="center"><h3>03</h3></td>
+<td width="92%" valign="top">
+
+<h3>Wikipedia Search App</h3>
+
+<p>Instant encyclopedia search with a clean, distraction-free interface.</p>
+
+<p><code>JavaScript</code> · <code>REST API</code> · <code>HTML/CSS</code></p>
+
+<ul>
+  <li>Real-time data rendering.</li>
+  <li>Fully responsive layout.</li>
+  <li>Minimal interface focused on finding information.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/CodeSculpt-RG?tab=repositories">
+    <strong>Browse repositories →</strong>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- Use specific project repository URLs when available. -->
+
+<br>
+
+<a name="tech-stack"></a>
+<h2>05 · Tech stack</h2>
+
+<table width="100%">
+
+<tr>
+<td width="20%" valign="top"><strong>Languages</strong></td>
+<td width="80%">
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-35264F?style=flat-square&amp;logo=javascript&amp;logoColor=C4B5FD" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-35264F?style=flat-square&amp;logo=typescript&amp;logoColor=C4B5FD" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-35264F?style=flat-square&amp;logo=python&amp;logoColor=C4B5FD" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-35264F?style=flat-square&amp;logo=html5&amp;logoColor=C4B5FD" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-35264F?style=flat-square&amp;logo=css3&amp;logoColor=C4B5FD" alt="CSS3">
+  <img src="https://img.shields.io/badge/PHP-35264F?style=flat-square&amp;logo=php&amp;logoColor=C4B5FD" alt="PHP">
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="20%" valign="top"><strong>Frontend &amp; mobile</strong></td>
+<td width="80%">
+<p>
+  <img src="https://img.shields.io/badge/React-35264F?style=flat-square&amp;logo=react&amp;logoColor=C4B5FD" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-35264F?style=flat-square&amp;logo=next.js&amp;logoColor=C4B5FD" alt="Next.js">
+  <img src="https://img.shields.io/badge/React_Native-35264F?style=flat-square&amp;logo=react&amp;logoColor=C4B5FD" alt="React Native">
+  <img src="https://img.shields.io/badge/Flutter-35264F?style=flat-square&amp;logo=flutter&amp;logoColor=C4B5FD" alt="Flutter">
+  <img src="https://img.shields.io/badge/Tailwind-35264F?style=flat-square&amp;logo=tailwind-css&amp;logoColor=C4B5FD" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Bootstrap-35264F?style=flat-square&amp;logo=bootstrap&amp;logoColor=C4B5FD" alt="Bootstrap">
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="20%" valign="top"><strong>Backend</strong></td>
+<td width="80%">
+<p>
+  <img src="https://img.shields.io/badge/Node.js-35264F?style=flat-square&amp;logo=node.js&amp;logoColor=C4B5FD" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-35264F?style=flat-square&amp;logo=express&amp;logoColor=C4B5FD" alt="Express">
+  <img src="https://img.shields.io/badge/Django-35264F?style=flat-square&amp;logo=django&amp;logoColor=C4B5FD" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-35264F?style=flat-square&amp;logo=flask&amp;logoColor=C4B5FD" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-35264F?style=flat-square&amp;logo=fastapi&amp;logoColor=C4B5FD" alt="FastAPI">
+  <img src="https://img.shields.io/badge/.NET-35264F?style=flat-square&amp;logo=.net&amp;logoColor=C4B5FD" alt=".NET">
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="20%" valign="top"><strong>AI / GenAI</strong></td>
+<td width="80%">
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-35264F?style=flat-square&amp;logo=google&amp;logoColor=C4B5FD" alt="Generative AI">
+  <img src="https://img.shields.io/badge/LLMs-35264F?style=flat-square&amp;logo=openai&amp;logoColor=C4B5FD" alt="LLMs">
+  <img src="https://img.shields.io/badge/RAG-35264F?style=flat-square&amp;logo=databricks&amp;logoColor=C4B5FD" alt="RAG">
+  <img src="https://img.shields.io/badge/Gemini_API-35264F?style=flat-square&amp;logo=google&amp;logoColor=C4B5FD" alt="Gemini API">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-35264F?style=flat-square&amp;logoColor=C4B5FD" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/Pandas-35264F?style=flat-square&amp;logo=pandas&amp;logoColor=C4B5FD" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-35264F?style=flat-square&amp;logo=numpy&amp;logoColor=C4B5FD" alt="NumPy">
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="20%" valign="top"><strong>Databases</strong></td>
+<td width="80%">
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-35264F?style=flat-square&amp;logo=mongodb&amp;logoColor=C4B5FD" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-35264F?style=flat-square&amp;logo=mysql&amp;logoColor=C4B5FD" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-35264F?style=flat-square&amp;logo=firebase&amp;logoColor=C4B5FD" alt="Firebase">
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="20%" valign="top"><strong>Cloud &amp; deployment</strong></td>
+<td width="80%">
+<p>
+  <img src="https://img.shields.io/badge/AWS-35264F?style=flat-square&amp;logo=amazon-aws&amp;logoColor=C4B5FD" alt="AWS">
+  <img src="https://img.shields.io/badge/Vercel-35264F?style=flat-square&amp;logo=vercel&amp;logoColor=C4B5FD" alt="Vercel">
+  <img src="https://img.shields.io/badge/Firebase_Hosting-35264F?style=flat-square&amp;logo=firebase&amp;logoColor=C4B5FD" alt="Firebase Hosting">
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="20%" valign="top"><strong>Tools</strong></td>
+<td width="80%">
+<p>
+  <img src="https://img.shields.io/badge/Git-35264F?style=flat-square&amp;logo=git&amp;logoColor=C4B5FD" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-35264F?style=flat-square&amp;logo=github&amp;logoColor=C4B5FD" alt="GitHub">
+  <img src="https://img.shields.io/badge/Figma-35264F?style=flat-square&amp;logo=figma&amp;logoColor=C4B5FD" alt="Figma">
+  <img src="https://img.shields.io/badge/WordPress-35264F?style=flat-square&amp;logo=wordpress&amp;logoColor=C4B5FD" alt="WordPress">
+  <img src="https://img.shields.io/badge/Arduino-35264F?style=flat-square&amp;logo=arduino&amp;logoColor=C4B5FD" alt="Arduino">
+  <img src="https://img.shields.io/badge/Home_Assistant-35264F?style=flat-square&amp;logo=home-assistant&amp;logoColor=C4B5FD" alt="Home Assistant">
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="20%" valign="top"><strong>Engineering concepts</strong></td>
+<td width="80%">
+<p>
+  <code>REST APIs</code> · <code>CI/CD</code> · <code>Agile</code> ·
+  <code>Scalable Systems</code> · <code>DSA</code> ·
+  <code>Infrastructure as Code (IaC)</code> · <code>Container Orchestration</code>
+</p>
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<a name="github-metrics"></a>
+<h2>06 · GitHub metrics</h2>
+
+<details open>
+<summary><strong>Activity, languages &amp; contribution streak</strong></summary>
+
+<p>
+  <a href="https://github.com/CodeSculpt-RG?tab=repositories">Browse repositories</a> ·
+  <a href="https://github.com/CodeSculpt-RG?tab=overview">View contributions on GitHub</a>
+</p>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=7C3AED&center=true&vCenter=true&width=400&lines=%E2%9C%A6+TECH+STACK+%E2%9C%A6"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CodeSculpt-RG&amp;show_icons=true&amp;include_all_commits=true&amp;card_width=560&amp;bg_color=161B22&amp;title_color=C4B5FD&amp;text_color=E6EDF3&amp;icon_color=A78BFA&amp;ring_color=A78BFA&amp;border_color=30363D&amp;border_radius=14">
+  <img width="560" src="https://github-readme-stats.vercel.app/api?username=CodeSculpt-RG&amp;show_icons=true&amp;include_all_commits=true&amp;card_width=560&amp;bg_color=FFFFFF&amp;title_color=6D28D9&amp;text_color=24292F&amp;icon_color=7C3AED&amp;ring_color=7C3AED&amp;border_color=D8DEE4&amp;border_radius=14" alt="G Rahul's GitHub statistics">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSculpt-RG&amp;layout=compact&amp;langs_count=10&amp;card_width=560&amp;bg_color=161B22&amp;title_color=C4B5FD&amp;text_color=E6EDF3&amp;border_color=30363D&amp;border_radius=14">
+  <img width="560" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSculpt-RG&amp;layout=compact&amp;langs_count=10&amp;card_width=560&amp;bg_color=FFFFFF&amp;title_color=6D28D9&amp;text_color=24292F&amp;border_color=D8DEE4&amp;border_radius=14" alt="Languages used across my public repositories">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CodeSculpt-RG&amp;background=161B22&amp;border=30363D&amp;stroke=30363D&amp;ring=A78BFA&amp;fire=C4B5FD&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=C4B5FD&amp;sideLabels=E6EDF3&amp;dates=ADB7C3&amp;border_radius=14">
+  <img width="560" src="https://streak-stats.demolab.com?user=CodeSculpt-RG&amp;background=FFFFFF&amp;border=D8DEE4&amp;stroke=D8DEE4&amp;ring=7C3AED&amp;fire=6D28D9&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=6D28D9&amp;sideLabels=24292F&amp;dates=57606A&amp;border_radius=14" alt="G Rahul's GitHub contribution streak">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CodeSculpt-RG&amp;bg_color=161B22&amp;color=C4B5FD&amp;line=A78BFA&amp;point=E6EDF3&amp;area=true&amp;area_color=7C3AED&amp;hide_border=true">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSculpt-RG&amp;bg_color=FFFFFF&amp;color=6D28D9&amp;line=7C3AED&amp;point=4C1D95&amp;area=true&amp;area_color=DDD6FE&amp;hide_border=true" alt="GitHub contribution activity graph for CodeSculpt-RG">
+</picture>
+
 </div>
+</details>
 
-<br/>
+<br>
 
-<div align="center">
+<a name="currently-learning"></a>
+<h2>07 · Currently learning</h2>
 
-| Layer | Technologies |
-|:--|:--|
-| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff) ![RN](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=fff) |
-| **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=fff) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff) ![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=fff) |
-| **AI / GenAI** | ![GenAI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=google&logoColor=fff) ![LLM](https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square&logo=openai&logoColor=fff) ![RAG](https://img.shields.io/badge/RAG-EC4899?style=flat-square&logo=databricks&logoColor=fff) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=fff) ![PE](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square&logoColor=fff) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=fff) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=fff) |
-| **Cloud & Deploy** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff) ![Firebase Host](https://img.shields.io/badge/Firebase_Hosting-FFA000?style=flat-square&logo=firebase&logoColor=fff) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=fff) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=fff) ![HA](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=fff) |
-| **Concepts** | `REST APIs` · `CI/CD` · `Agile` · `Scalable Systems` · `DSA` · `IaC` · `Container Orchestration` |
+<table width="100%">
+<tr>
+  <td width="20%"><strong>Now</strong></td>
+  <td width="80%">Advanced DevOps &amp; CI/CD, Infrastructure as Code (IaC), and automated monitoring.</td>
+</tr>
+<tr>
+  <td width="20%"><strong>Next</strong></td>
+  <td width="80%">Kubernetes &amp; orchestration, cloud-native architecture, and full-stack AI pipelines.</td>
+</tr>
+<tr>
+  <td width="20%"><strong>Always</strong></td>
+  <td width="80%">Data Structures &amp; Algorithms, system design &amp; scalability, and clean code &amp; best practices.</td>
+</tr>
+</table>
 
-</div>
+<br>
 
----
+<a name="achievements"></a>
+<h2>08 · Achievements</h2>
 
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║              GITHUB METRICS                    ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
+<ul>
+  <li><strong>First Prize · Arduino Home Automation</strong> — An IoT-powered smart home system that won first prize at the competition.</li>
+  <li><strong>NCC 'A' Certificate</strong> — National Cadet Corps recognition for leadership, discipline, and teamwork.</li>
+  <li><strong>Full-Stack Certification · Nxtwave</strong> — Professional full-stack development training through Nxtwave Disruptive Technologies.</li>
+</ul>
 
-<div align="center">
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=7C3AED&center=true&vCenter=true&width=500&lines=%E2%9C%A6+GITHUB+METRICS+%E2%9C%A6"/>
+<a name="lets-build-together"></a>
+<h2>09 · Let's build together</h2>
 
-<br/>
+<p>I'm <strong>open to work, open to collaborate, and open to build</strong>.</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSculpt-RG&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=CBD5E1&border_radius=18&langs_count=10&count_private=true"/>
-&nbsp;&nbsp;
-<img height="165" src="https://streak-stats.demolab.com?user=CodeSculpt-RG&theme=tokyonight&hide_border=true&background=020617&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&border_radius=18"/>
+<h3>Available for</h3>
 
-<br/><br/>
+<ul>
+  <li>Full-time roles in Full-Stack, GenAI, Backend, and DevOps.</li>
+  <li>Freelance and contract projects.</li>
+  <li>Mentorship and learning partnerships.</li>
+</ul>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeSculpt-RG&theme=tokyo-night&hide_border=true&bg_color=020617&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=312E81"/>
+<h3>Interested in collaborating on</h3>
 
-</div>
+<ul>
+  <li>GenAI and RAG projects.</li>
+  <li>Open-source tools.</li>
+  <li>Developer productivity applications.</li>
+  <li>Full-stack SaaS products.</li>
+</ul>
 
----
+<p>
+  I build fast, think clearly, and ship things that matter.
+  If you have an idea worth building — let's talk.
+</p>
 
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║            CURRENTLY LEARNING                  ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
+<p>
+  <strong><a href="mailto:work.grahul@gmail.com">Email me →</a></strong> ·
+  <strong><a href="https://www.linkedin.com/in/geekster-rahulg">Connect on LinkedIn →</a></strong> ·
+  <strong><a href="https://github.com/CodeSculpt-RG?tab=repositories">Explore and star my repositories →</a></strong>
+</p>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=7C3AED&center=true&vCenter=true&width=600&lines=%E2%9C%A6+CURRENTLY+LEARNING+%E2%9C%A6"/>
-</div>
+<p><strong><a href="mailto:work.grahul@gmail.com">work.grahul@gmail.com</a></strong></p>
 
-<br/>
+<details>
+<summary><strong>A few reminders I build by</strong></summary>
 
-<div align="center">
+<ul>
+  <li>“Failure is not the opposite of success — it is part of it.”</li>
+  <li>“The best time to plant a tree was 20 years ago. The second best time is now.”</li>
+  <li>“Build in silence. Let your commits speak.”</li>
+  <li>“Every expert was once a beginner who refused to quit.”</li>
+  <li>“Ships don't sink because of the water around them. Keep shipping code.”</li>
+  <li>“Don't watch the clock. Do what it does. Keep going.”</li>
+</ul>
 
-| 🔥 Now | 🎯 Next | ♾️ Always |
-|:---:|:---:|:---:|
-| Advanced DevOps & CI/CD | Kubernetes & orchestration | Data Structures & Algorithms |
-| Infrastructure as Code (IaC) | Cloud-native architecture | System design & scalability |
-| Automated monitoring | Full-stack AI pipelines | Clean code & best practices |
+</details>
 
-</div>
-
----
-
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║              ACHIEVEMENTS                      ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=7C3AED&center=true&vCenter=true&width=500&lines=%E2%9C%A6+ACHIEVEMENTS+%E2%9C%A6"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-| | Achievement | Details |
-|:---:|:--|:--|
-| 🥇 | **First Prize — Arduino Home Automation** | IoT-powered smart home system, won first at the competition |
-| 🎖️ | **NCC 'A' Certificate** | National Cadet Corps — leadership, discipline, teamwork |
-| 📜 | **Full-Stack Certification — Nxtwave** | Professional full-stack development training program |
-
-</div>
-
----
-
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║              OPEN TO WORK                      ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
+<hr>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=99999&pause=99999&color=22C55E&center=true&vCenter=true&width=700&lines=%E2%9C%A6+OPEN+TO+WORK+%26+COLLABORATE+%E2%9C%A6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rounded&amp;color=21163B&amp;height=115&amp;text=Keep%20building.&amp;fontSize=36&amp;fontColor=F5F3FF">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;color=EDE9FE&amp;height=115&amp;text=Keep%20building.&amp;fontSize=36&amp;fontColor=4C1D95" alt="Keep building.">
+</picture>
 
-<br/>
+<p><strong>Learn from every mistake. Build better with every lesson.</strong></p>
 
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│                                                                            │
-│   🟢  AVAILABLE FOR HIRE                          🤝  OPEN TO COLLABORATE  │
-│                                                                            │
-│   ▸  Full-time roles                              ▸  GenAI / RAG projects  │
-│   ▸  Full-Stack / GenAI / Backend / DevOps        ▸  Open source tools     │
-│   ▸  Freelance & contract projects                ▸  Dev productivity apps │
-│   ▸  Mentorship & learning partnerships           ▸  Full-stack SaaS       │
-│                                                                            │
-│   I build fast, think clearly, and ship things that matter.                │
-│   If you have an idea worth building — let's talk.                         │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
-```
+<p><sub>Work in silence. Let your code do the talking.</sub></p>
 
-<br/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=CodeSculpt-RG&amp;label=Profile+views&amp;color=6D28D9&amp;style=flat-square" alt="Profile view counter for CodeSculpt-RG">
+</p>
 
-<a href="mailto:work.grahul@gmail.com">
-<img src="https://img.shields.io/badge/work.grahul@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/geekster-rahulg">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001a33"/>
-</a>
-&nbsp;
-<a href="https://github.com/CodeSculpt-RG">
-<img src="https://img.shields.io/badge/Star%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111"/>
-</a>
-
-</div>
-
----
-
-<!-- ╔════════════════════════════════════════════════╗ -->
-<!-- ║           QUOTE + ANIMATED FOOTER              ║ -->
-<!-- ╚════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=%22Failure+is+not+the+opposite+of+success+%E2%80%94+it+is+part+of+it.%22;%22The+best+time+to+plant+a+tree+was+20+years+ago.+The+second+best+time+is+now.%22;%22Build+in+silence.+Let+your+commits+speak.%22;%22Every+expert+was+once+a+beginner+who+refused+to+quit.%22;%22Ships+don't+sink+because+of+the+water+around+them.+Keep+shipping+code.%22;%22Don't+watch+the+clock.+Do+what+it+does.+Keep+going.%22"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=CodeSculpt-RG&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
-
-<br/><br/>
-
-<sub>Designed with intention · G Rahul · Bhilai, India · 2025–26</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,50:312E81,100:020617&height=180&section=footer&animation=fadeIn&fontColor=ffffff&text=Keep%20Building.&fontSize=38&fontAlignY=55&desc=Work%20in%20silence.%20Let%20your%20code%20do%20the%20talking.&descSize=14&descColor=A78BFA&descAlignY=75"/>
+<p><sub>Designed with intention · G Rahul · Bhilai, India · 2025–26</sub></p>
 
 </div>
